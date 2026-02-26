@@ -1,0 +1,17 @@
+USER PROMPT: a calculator simple
+______________________________________________________________________
+
+
+FRONTEND PAGES DECIDED:
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "description": "The main calculator interface."
+  },
+  {
+    "name": "About",
+    "route": "/about",
+    "description": "Information about the calculator."
+  }
+]
